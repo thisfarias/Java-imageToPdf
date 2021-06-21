@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\faria\\OneDrive\\Desktop\\itextpdf-5.1.0.jar",
+    ]
+}
